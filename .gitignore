@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.pth.tar
+data/
+datasets/
+my_ckpt/
+my_logs/
+my_run_out/
+run_logs*/
+sldc_logs*/
